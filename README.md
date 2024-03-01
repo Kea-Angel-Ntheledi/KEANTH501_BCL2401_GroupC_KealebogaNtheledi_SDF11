@@ -14,6 +14,8 @@ npm run build
 npm run build-minify
 
 
+```
+
 Loom Link: [https://www.loom.com/share/8b16b5a6d1a44e0e925b3ad1144a3021?sid=b20aa7a6-2acc-4858-8fd7-9e99f051755e]
 Presentation Slides: [https://docs.google.com/presentation/d/1rrW-vBPQETyLjsRDm-KlHVcuim6AfdUrrkLUuDVfO_4/edit?usp=sharing]
 
@@ -31,4 +33,3 @@ But, the project allowed me to gain a deeper understanding of user needs and pre
 # Overall learning experience
 The project provided a valuable opportunity to enhance technical skills in HTML, CSS, Tailwind CSS, and JavaScript. Through hands-on practice, I gained a deeper understanding of these technologies and how they can be used to create responsive web pages. Beyond technical skills, the project provided an opportunity for personal growth and development. It pushed me out of my comfort zone, encouraged me to take risks, and ultimately helped me become a more confident and resilient individual.
 
-```
